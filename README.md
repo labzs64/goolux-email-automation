@@ -1,0 +1,1 @@
+# goolux-email-automation
